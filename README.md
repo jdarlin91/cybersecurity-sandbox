@@ -24,8 +24,6 @@ The sandbox allows for ethical hacking, exploit testing, and system hardening wi
 - Snapshot management and rollback
 - Network isolation and resource allocation
 
-## Screenshots
-*(Add screenshots showing VM setup, terminal scans, or attacks here)*
 
 ## Author
 James Darling  
